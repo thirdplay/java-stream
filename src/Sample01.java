@@ -1,5 +1,5 @@
 interface Iface1 {
-  public void method(int i, String s);
+  void method(int i, String s);
 }
 
 /**
